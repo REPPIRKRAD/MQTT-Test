@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 import json
 
 #-------------------------------------------------------------------------#
-
+#Copy Subscribe
 host  = 'test.mosquitto.org'
 port = 1883
 group = 'calculus2'
@@ -10,7 +10,7 @@ yourname = 'Apichai'
 topic = group + '/' + yourname
 username = ''
 password = ''
-
+var = 'copy-version-1 (Subscribe)'
 #--------------------------------------------------------------------------#
 
 client = mqtt.Client()
