@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 import json
 
 #-------------------------------------------------------------------------#
-#Copy Subscribe
+#Copy Subscribe GG LOL
 host  = 'test.mosquitto.org'
 port = 1883
 group = 'calculus2'

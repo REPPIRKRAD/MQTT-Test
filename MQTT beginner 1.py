@@ -1,6 +1,6 @@
 import paho.mqtt.client as mqtt
 
-#Copy Publish version1
+#Copy Publish version1 LOL GG
 host  = 'test.mosquitto.org'
 port = 1883
 group = 'calculus2'
